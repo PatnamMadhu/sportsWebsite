@@ -1,0 +1,47 @@
+body {
+background-color : brown;
+
+background-image : url(sport-template-backgrounds-powerpoint.jpg) ;
+background-size : 95%;
+}
+#header{
+color : black;
+text-align : center;
+}
+#content{
+padding : 10px;
+width :800px;
+background-color: white;
+
+margin left :auto;
+margin right:auto;
+}
+#navigation{
+float : left;
+width :160px;
+padding :0;
+
+}
+#main{
+width :600px;
+float : right;
+color : blue;
+}
+#footer{
+clear : both;
+}
+#navigation ul{
+padding : 0;
+
+}
+a{
+text-decoration :none;
+color :red;
+}
+#D{
+float:right;
+}
+p {
+font-family: "Lucida Bright",sans-serif;
+font-size: 20px;
+}
